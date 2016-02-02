@@ -1,7 +1,7 @@
 # DesignPattern
 Design Pattern
 
-Title: Composite
+#Title: Composite
 
 Classification: Estrutural de objetos
 
@@ -9,7 +9,7 @@ Creator: Erich Gamma, Ralph Johnson, Richard Halm, John Vlissides
 
 Subject: Estrutura de árvore, Hierarquias parte-todo
 
-Description:
+#Description:
 
 Problem: Compor objetos em estruturas de árvore para representarem hierarquias parte-todo. Composite permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.
 
